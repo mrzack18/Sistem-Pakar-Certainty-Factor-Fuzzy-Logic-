@@ -16,8 +16,8 @@ Untuk menjalankan notebook ini, pastikan Anda memiliki
 -Python 3.
 -Jupyter Noteboo
 -Pustaka Python berikut
-  -`numpy`
-  -`pandas`
+  -`numpy
+  -`pandas
   -`matplotlib` (opsional, untuk visualisasi)
 Anda dapat menginstal pustaka yang diperlukan menggunakan pip
 
