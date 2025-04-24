@@ -1,20 +1,20 @@
 # Sistem Pakar: Certainty Factor & Fuzzy Logic
 
-Repositori ini berisi implementasi sistem pakar menggunakan dua pendekatan utama: **Certainty Factor (CF)** dan **Fuzzy Logic**. Dikembangkan menggunakan *Jupyter Notebook*, proyek ini bertujuan untuk memberikan pemahaman praktis tentang penerapan metode CF dan logika fuzzy dalam pengambilan keputusan berbasis pengetahuan.
+Repositori ini berisi implementasi sistem pakar menggunakan dua pendekatan utama: **Certainty Factor (CF)** dan **Fuzzy Logic**. Dikembangkan menggunakan *Jupyter Notebook*, proyek ini bertujuan untuk memberikan pemahaman praktis tentang penerapan metode CF dan logika fuzzy dalam pengambilan keputusan berbasis pengetahuan.
 
 ## 📁 Struktur Proyek
 
 - `CertaintyFactor.ipynb`  
- Notebook yang mendemonstrasikan penerapan metode Certainty Factor untuk inferensi dalam sistem pakar
+ Notebook yang mendemonstrasikan penerapan metode Certainty Factor untuk inferensi dalam sistem pakar
 
 - `FuzzyLogic.ipynb`  
- Notebook yang menampilkan implementasi logika fuzzy, termasuk definisi himpunan fuzzy, fungsi keanggotaan, dan proses inferensi fuzzy
+ Notebook yang menampilkan implementasi logika fuzzy, termasuk definisi himpunan fuzzy, fungsi keanggotaan, dan proses inferensi fuzzy
 
 ## ⚙️ Prasyarat
 Untuk menjalankan notebook ini, pastikan Anda memiliki:
 
 - Python 3.x
-- Jupyter Noteboo
+- Jupyter Noteboo
 - Pustaka Python berikut:
   - `numpy`
   - `pandas`
