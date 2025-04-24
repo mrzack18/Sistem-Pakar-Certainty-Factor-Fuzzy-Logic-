@@ -23,7 +23,7 @@ Repositori ini berisi implementasi sistem pakar menggunakan dua pendekatan utama
 
 ```bash
 pip install numpy pandas matplotlib
-```
+```
 
 ## 🚀 Cara Menjalankan
 
@@ -32,20 +32,18 @@ pip install numpy pandas matplotlib
    ```bash
    git clone https://github.com/mrzack18/Sistem-Pakar-Certainty-Factor-Fuzzy-Logic-.git
    cd Sistem-Pakar-Certainty-Factor-Fuzzy-Logic-
-   ``
-
+   ```
 
 2 Buka Jupyter Noteboo:
 
    ```bash
    jupyter notebook
-   ``
-
+   ```
 
-3 Pilih dan buka salah satu notebook (`CertaintyFactor.ipynb` atau `FuzzyLogic.ipynb`) untuk mempelajari implementasiny.
+3 Pilih dan buka salah satu notebook (`CertaintyFactor.ipynb` atau `FuzzyLogic.ipynb`) untuk mempelajari implementasiny.
 
 ## 📖 Deskripsi Singkat
 
-- **Certainty Factor (CF):**    Metode CF digunakan untuk menangani ketidakpastian dalam sistem pakar dengan memberikan nilai keyakinan terhadap suatu fakta atau aturan. Notebook ini menunjukkan bagaimana CF digunakan dalam proses inferensi untuk mencapai kesimpulan berdasarkan fakta yang terseda.
+- **Certainty Factor (CF):**    Metode CF digunakan untuk menangani ketidakpastian dalam sistem pakar dengan memberikan nilai keyakinan terhadap suatu fakta atau aturan. Notebook ini menunjukkan bagaimana CF digunakan dalam proses inferensi untuk mencapai kesimpulan berdasarkan fakta yang terseda.
 
-- **Fuzzy Logic:**    Logika fuzzy memungkinkan sistem untuk menangani data yang tidak pasti atau samar dengan menggunakan himpunan fuzzy dan fungsi keanggotaan. Notebook ini mendemonstrasikan bagaimana logika fuzzy diterapkan dalam pengambilan keputusan yang lebih fleksibel dibandingkan logika biner tradisionl.
+- **Fuzzy Logic:**    Logika fuzzy memungkinkan sistem untuk menangani data yang tidak pasti atau samar dengan menggunakan himpunan fuzzy dan fungsi keanggotaan. Notebook ini mendemonstrasikan bagaimana logika fuzzy diterapkan dalam pengambilan keputusan yang lebih fleksibel dibandingkan logika biner tradisionl.
