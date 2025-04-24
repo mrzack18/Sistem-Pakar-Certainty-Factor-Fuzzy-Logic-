@@ -5,21 +5,21 @@ Repositori ini berisi implementasi sistem pakar menggunakan dua pendekatan utama
 ## 📁 Struktur Proyek
 
 - `CertaintyFactor.ipynb`  
- Notebook yang mendemonstrasikan penerapan metode Certainty Factor untuk inferensi dalam sistem pakar
+ Notebook yang mendemonstrasikan penerapan metode Certainty Factor untuk inferensi dalam sistem pakar
 
 - `FuzzyLogic.ipynb`  
- Notebook yang menampilkan implementasi logika fuzzy, termasuk definisi himpunan fuzzy, fungsi keanggotaan, dan proses inferensi fuzzy
+ Notebook yang menampilkan implementasi logika fuzzy, termasuk definisi himpunan fuzzy, fungsi keanggotaan, dan proses inferensi fuzzy
 
 ## ⚙️ Prasyarat
-Untuk menjalankan notebook ini, pastikan Anda memiliki
+Untuk menjalankan notebook ini, pastikan Anda memiliki
 
--Python 3.
--Jupyter Noteboo
--Pustaka Python berikut
-  -`numpy
-  -`pandas
-  -`matplotlib` (opsional, untuk visualisasi
-Anda dapat menginstal pustaka yang diperlukan menggunakan pip
+-Python 3.
+-Jupyter Noteboo
+-Pustaka Python berikut
+  -`numpy
+  -`pandas
+  -`matplotlib` (opsional, untuk visualisasi
+Anda dapat menginstal pustaka yang diperlukan menggunakan pip
 
 ```bash
 pip install numpy pandas matplotlib
@@ -27,14 +27,14 @@ pip install numpy pandas matplotlib
 
 ## 🚀 Cara Menjalankan
 
-1 Klon repositori in:
+1 Klon repositori in:
 
    ```bash
    git clone https://github.com/mrzack18/Sistem-Pakar-Certainty-Factor-Fuzzy-Logic-.git
    cd Sistem-Pakar-Certainty-Factor-Fuzzy-Logic-
    ```
 
-2 Buka Jupyter Noteboo:
+2 Buka Jupyter Noteboo:
 
    ```bash
    jupyter notebook
